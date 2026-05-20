@@ -3,4 +3,5 @@
   <Project Path="06_02_StringandChar/06_02_StringandChar.csproj" />
   <Project Path="06_03_Concat/06_03_Concat.csproj" />
   <Project Path="06_04_CompareTo/06_04_CompareTo.csproj" />
+  <Project Path="06_05_StringBuilder/06_05_StringBuilder.csproj" />
 </Solution>
